@@ -34,7 +34,7 @@ import json
 from datetime import datetime
 
 url = "https://places.googleapis.com/v1/places:searchNearby"
-api_key = "AIzaSyBQQZ0nducO31cGjLUnQaM5SP4fCNda3pw"
+api_key = ""
 
 headers = {
     "Content-Type": "application/json",
